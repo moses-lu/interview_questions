@@ -88,6 +88,10 @@ git branch -r -D branchName  删除远程分支
 
 git branch -D branchName 删除本地分支
 
+rm fileName 删除本地文件
+
+git rm fileName 删除远程文件
+
 #### 8：配置和修改和查看用户名和邮箱
 配置
 
